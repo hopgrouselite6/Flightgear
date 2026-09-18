@@ -221,4 +221,4 @@ FlightGear is offered as a complete free version with all features and updates i
 Take to the skies today with FlightGear! Enjoy a top-notch flight simulation experience completely free. Download now and start your aviation adventure!
 
 ---
-**Last updated:** 2026-09-18 12:31:29 UTC
+**Last updated:** 2026-09-18 16:50:00 UTC
